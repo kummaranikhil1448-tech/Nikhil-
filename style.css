@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
-:root{
-  --bg:#08110f;
-  --surface:#0e1b18;
-  --surface2:#13231f;
-  --text:#f4f7f5;
-  --muted:#aebcb7;
-  --accent:#8df0b7;
-  --accent2:#55d58d;
-  --border:rgba(255,255,255,.09);
+:root {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface2: #fafafa;
+  --text: #111111;
+  --muted: #666666;
+  --accent: #000000;
+  --accent2: #333333;
+  --border: rgba(0, 0, 0, 0.12);
 }
 
 *{box-sizing:border-box;scroll-behavior:smooth}
